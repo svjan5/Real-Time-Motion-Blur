@@ -1,4 +1,12 @@
+
+
+
+
+
 # Real-Time-Motion-Blur
 
-![Alt text](https://github.com/svjan5/Real-Time-Motion-Blur/blob/master/screen_shot.png "Optional title")<br />
-Implementation of "A Reconstruction Filter for Plausible Motion Blur", for my final project of Computer Graphics course, IISc, Bangalore.
+![Screen Shot](https://github.com/svjan5/Real-Time-Motion-Blur/blob/master/screen_shot.png "Car Racing Game")<br />
+
+## Description
+Implementation of "A Reconstruction Filter for Plausible Motion Blur" in C++ OpenGL
+http://graphics.cs.williams.edu/papers/MotionBlurI3D12/
